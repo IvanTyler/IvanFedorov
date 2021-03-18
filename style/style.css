@@ -86,7 +86,7 @@ h2.main-title{
 }
 .section-greeting-avatar{
     width: 100%;
-    background-image: url(/img/icon_5.jpg);
+    background-image: url(../img/icon_5.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -112,10 +112,10 @@ h2.main-title{
     background-repeat: no-repeat;
 }
 .section-img-1{
-    background-image: url(/img/marafon.jpg);
+    background-image: url(../img/marafon.jpg);
 }
 .section-img-2{
-    background-image: url(/img/unnamed.jpg);
+    background-image: url(../img/unnamed.jpg);
 }
 .container-photos{
     display: flex;
@@ -134,20 +134,20 @@ h2.main-title{
     margin: 10px;
 }
 .img-photos-item.icon_1{
-    background-image: url(/img/icon_1.jpg);
+    background-image: url(../img/icon_1.jpg);
 }
 .img-photos-item.icon_2{
-    background-image: url(/img/icon_2.jpg);
+    background-image: url(../img/icon_2.jpg);
 }
 .img-photos-item.icon_3{
-    background-image: url(/img/icon_3.jpg);
+    background-image: url(../img/icon_3.jpg);
 }
 .img-photos-item.icon_4{
-    background-image: url(/img/icon_4.jpg);
+    background-image: url(../img/icon_4.jpg);
 }
 .img-photos-item.icon_5{
-    background-image: url(/img/icon_5.jpg);
+    background-image: url(../img/icon_5.jpg);
 }
 .img-photos-item.icon_6{
-    background-image: url(/img/icon_6.jpg);
+    background-image: url(../img/icon_6.jpg);
 }
